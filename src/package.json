@@ -1,0 +1,18 @@
+{
+  "name": "Thinboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "views/thinboard.html",
+  "scripts": {},
+  "window": {
+    "title": "Thinboard",
+    "icon": "extras/favicon-16.png",
+    "toolbar": false,
+    "width": 1150,
+    "height": 600,
+    "position": "mouse"
+  },
+  "keywords": [],
+  "author": "hauptkern",
+  "license": "ISC"
+}

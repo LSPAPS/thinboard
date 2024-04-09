@@ -1,0 +1,17 @@
+{
+  "name": "Thinboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dist": "build --tasks win-x86 --mirror https://dl.nwjs.io/ src/",
+    "start": "run --x86 --mirror https://dl.nwjs.io/ src/"
+  },
+  "keywords": [],
+  "author": "hauptkern",
+  "license": "ISC",
+  "devDependencies": {
+    "nw": "^0.14.7-sdk",
+    "nwjs-builder-phoenix": "^1.15.0"
+  }
+}
